@@ -15,6 +15,7 @@ int main()
 
   printf("Enter value to find\n");
   scanf("%d", &search);
+  
 
   first = 0;
   last = n - 1;
